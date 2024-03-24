@@ -101,9 +101,6 @@ celerybeat-schedule
 
 # End of https://www.gitignore.io/api/python
 
-###################
-# EDITED BY SINA :
-
 ### Python Patch ###
 .venv/
 
@@ -115,9 +112,6 @@ venv/
 #ENV/
 env.bak/
 venv.bak/
-
-###################
-# Added by Sina:
 
 #cache files
 *.bin
